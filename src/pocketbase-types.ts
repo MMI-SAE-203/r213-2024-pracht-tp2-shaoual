@@ -3,6 +3,8 @@
  * npm run typegen
  */
 
+
+
 import type PocketBase from 'pocketbase'
 // Type for usage with type asserted PocketBase instance
 // https://github.com/pocketbase/js-sdk#specify-typescript-definitions
